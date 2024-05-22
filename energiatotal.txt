@@ -1,6 +1,4 @@
-# Consumo de energia total de electricidad (en miles de Tep)
-# desde enero de 1992 hasta junio de 2005
-electricidad
+# Consumo de energia total de electricidad (en miles de Tep) desde enero de 1992 hasta junio de 2005 electricidad
 1113
 1015
 997
